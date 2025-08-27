@@ -1,6 +1,6 @@
 # my-first-repo
-Nama : Pak Bepe
+Nama : Zhafira Cellonada
 
-NPM : 2401234567
+NPM : 2406495842
 
-Kelas : PBP A
+Kelas : PBP F
